@@ -1,0 +1,31 @@
+emp:
+  info:
+    name: lucky
+    id: 1001
+    addrs: Hyd
+    salary: 56000
+    favColors:
+     -red
+     -Green
+     -Yellow
+    phones:
+      -9895635
+      -4513538
+      -2878255
+    idDetails:
+      adhar: 5465367
+      passport: 357354
+      voterid: 2468734
+    company:
+      cid: 54587
+      name: ram
+      size: 47
+      
+  data:
+    email: lucky@gmail.com
+spring:
+  config:
+   import: Info.yml
+    
+    
+    
